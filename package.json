@@ -1,0 +1,15 @@
+{
+  "name": "domainParser",
+  "version": "1.0.0",
+  "description": "To parse and extract domain from a given url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domai",
+    "parser"
+  ],
+  "author": "Meraj Ahmad Siddiqui <merajsiddiqui@outlook.com>",
+  "license": "BSD-2-Clause"
+}
